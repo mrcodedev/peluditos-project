@@ -41,11 +41,11 @@ Desarrollaremos el proyecto en varias fases:
 
 
 ### Componentes:
-  * @baumannzone
-  * @bytelovers
-  * @mrcodedev
-  * @xexuline
-  * @momantai
+  * [ baumannzone ](https://github.com/baumannzone)
+  * [ bytelovers ](https://github.com/bytelovers)
+  * [ MrCodeDev ](https://github.com/mrcodedev)
+  * [ xexuline ](https://github.com/xexuline)
+  * [ momantai ](https://github.com/momantai)
 
 ### Canal de slack:
    #guild_peluditos 
